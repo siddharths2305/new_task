@@ -1,0 +1,21 @@
+.navbar-custom {
+  background-color: #0a0b0b; /* Darker background for better contrast */
+  color: white;
+}
+
+.brand-name {
+  font-family: 'Arial', sans-serif;
+  font-weight: 700;
+  color: #c631ef; /* Tomato color */
+}
+
+.nav-link {
+  color: #f8f9fa !important;
+  font-size: 1.1rem;
+  padding: 0.75rem 1rem;
+}
+
+.nav-link:hover {
+  color: #474dff !important;
+  text-decoration: underline;
+}
