@@ -6,7 +6,6 @@ open terminal
 2.npm install web-vitals --save
 3.npm install react-router-dom
 4.then npm start to run this applications 
-# README
 
 Prerequisites
 Before starting, make sure you have the following installed on your system:
